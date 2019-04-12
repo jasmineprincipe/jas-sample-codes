@@ -9,6 +9,8 @@ import Footer from './components/footer.jsx';
 
 class App extends Component {
   render() {
+    console.log('commit sample');
+    
     return (
       <div className="my-app">
         <Header />
